@@ -59,7 +59,7 @@ module.exports = {
                     { text: 'Vscode', link: 'https://code.visualstudio.com/' },
                 ] 
             },
-            { text: 'Source', link: 'https://github.com/Datapotomus/vuepress-starter' }
+            { text: 'Source', link: 'https://github.com/Datapotomus/techlife' }
         ]
     }
 };
